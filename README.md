@@ -37,7 +37,7 @@ This project analyzes 5 years of Nigerian fish store data, uncovering trends in 
 ## Run It Yourself
 - Open `.xlsx` in Excel for data exploration.
 - Download `.pbix` and open in Power BI Desktop (free)—filter by date or type.
-- Questions? DM me on LinkedIn: [linkedin.com/in/ojokoredekelvin](https://www.linkedin.com/in/your-profile-here).
+- Questions? DM me on whatsapp: https://wa.me/2347044281768 or send me an email: ojokorede251@gmail.com
 
 Open to freelance: Data cleaning, dashboards, or SQL queries—let's chat! 🚀
 
